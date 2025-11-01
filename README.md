@@ -1,98 +1,103 @@
-<h1 align="center">✨ Alex – @Wynemods ✨</h1>
-<h3 align="center">🛡️ The Code Warden | Software Engineer | Systems Architect | Digital Craftsman</h3>
+<!-- ✨ WYNEMODS | ALEX | THE CODE WARDEN ✨ -->
+<div align="center">
+  
+# 🛡️ **ALEX – The Code Warden**  
+> *Guardian of Logic · Sentinel of Structure · Slayer of Bugs*  
+<br>
 
-<p align="center">
-Welcome to my GitHub realm. I’m a <b>world-class software engineer</b> who thrives at the intersection of clean architecture, creative innovation, and engineering discipline.<br>
-Whether I’m summoning APIs from the void or vanquishing stubborn bugs, I code with precision, elegance, and purpose. ⚔️
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Systems+Architect+%26+Tech+Creator;Innovating+with+Clean+Code+%26+AI+Power)](https://git.io/typing-svg)
 
----
-
-## 💫 About Me
-💻 Full-Stack Developer & Systems Architect<br>
-🧠 I design <b>scalable, resilient systems</b> that serve millions.<br>
-🪄 I craft delightful <b>front-end experiences</b> and <b>solid back-end foundations</b>.<br>
-🧰 Passionate about <b>automation, AI, and modern DevOps pipelines</b>.<br>
-🌍 Based in a digital universe where innovation never sleeps.<br>
-
-### 🚀 What I Build
-- 🧩 **Architect** high-performance web and mobile applications  
-- ⚙️ **Develop** RESTful APIs & distributed microservices (Node.js, Laravel, Go, Rust)  
-- 🎨 **Design** reactive UIs using React, Angular, Svelte & TailwindCSS  
-- ☁️ **Deploy** to AWS, Firebase, Docker, Kubernetes, Vercel  
-- 🔒 **Integrate** secure authentication, payments, and real-time systems  
-- 🤖 **Experiment** with AI/ML workflows (Python, TensorFlow, LangChain)  
-- 🧠 **Mentor** developers & contribute to open source with excellence  
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 💫 About Me  
+
+👋 Greetings, traveller of the digital realm!  
+I’m **Alex** — better known across the devverse as **@Wynemods** — a **Full-Stack Engineer** and **Systems Architect** with a relentless passion for crafting digital masterpieces that fuse **engineering precision** with **creative firepower**.  
+
+From summoning APIs out of the void 🌀 to banishing bugs with a single keystroke ⚔️, I build systems that *breathe logic and whisper innovation*.  
+
+### 🚀 What I Do  
+🧠 Architect **high-performance** web & mobile apps  
+⚙️ Engineer **RESTful APIs** & **microservices** in Node.js, Laravel, Go, Rust & Python  
+🎨 Design **responsive UIs** with React, Vue, Angular, Svelte, TailwindCSS  
+☁️ Deploy on **AWS**, **Docker**, **Firebase**, **Kubernetes**, **Vercel**  
+🔒 Integrate **secure authentication**, **real-time updates**, and **payments**  
+🧪 Explore **AI/ML** workflows using TensorFlow, LangChain, and Python  
+🛠️ Mentor developers, contribute to open source, and bring ideas to life  
+
+---
+
+## 🌐 Socials  
+
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/Wynemods)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/Alexmods)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_alexmods)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/manman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_alexmods)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/manman)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/manman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kingstonmuhoro@gmail.com)
 
 ---
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## 💻 Tech Stack  
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=Wynemods&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Wynemods&theme=merko&hide_border=true)
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=Wynemods&theme=merko&hide_border=true&show_icons=true&rank_icon=github&card_width=450&custom_title=Alex's+Performance+Report+(Grade:+B-))  
+![](https://streak-stats.demolab.com?user=Wynemods&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wynemods&theme=merko&hide_border=true&layout=compact)
 
-### 🏅 Developer Rating
-![Developer Rating: B-](https://img.shields.io/badge/Developer%20Rating-B%2D%E2%80%91-blue?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## 🏆 GitHub Trophies  
+
+![](https://github-profile-trophy.vercel.app/?username=Wynemods&theme=radical&margin-w=6&no-frame=false&no-bg=false)
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wynemods&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## ✍️ Random Dev Quote  
 
----
-
-### ✍️ Inspirational Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repositories  
+
 ![](https://github-contributor-stats.vercel.app/api?username=Wynemods&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-### 👀 Visitors
-[![](https://visitcount.itsvg.in/api?id=Wynemods&icon=5&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
----
+[![](https://visitcount.itsvg.in/api?id=Wynemods&icon=5&color=3)](https://visitcount.itsvg.in)
 
-## 💰 Support My Craft
-If you’d like to support my work and fuel more late-night coding sessions ☕⚙️  
+### 💰 Support My Craft  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wynemods28@gmail.com)
 
+</div>
+
 ---
 
-<p align="center"><i>Crafted with precision, powered by creativity, and refined with British engineering discipline 🇬🇧</i></p>
+<!-- 🧠 Built with pride & precision — Alex (Wynemods) -->

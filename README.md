@@ -1,116 +1,22 @@
+# 💫 About Me:
+💫 About Me<br>👋 Hi, I'm Alex — aka @Wynemods<br>🛡️ The Code Warden — Guardian of Logic. Sentinel of Structure. Slayer of Bugs.<br><br>💻 Software Engineer | Full-Stack Developer | Tech Creator | Systems Architect<br>Welcome to my GitHub realm! I'm a passionate, world-class software engineer who blends clean code with creative firepower. I specialize in building full-stack web applications, scalable backend architectures, and immersive user experiences that leave a mark.<br><br>Whether I'm summoning APIs from the void or banishing bugs with a single keystroke, I code with precision, purpose, and a touch of magic.<br><br>🚀 What I Do<br>🧠 Architect high-performance web & mobile apps<br>⚙️ Build RESTful APIs and microservices with Node.js, Laravel, Python, Go, Rust<br>🎨 Design responsive UIs using React, Vue, Angular, Svelte, TailwindCSS<br>☁️ Deploy scalable systems on AWS, Docker, Firebase, Kubernetes, Vercel<br>🔒 Integrate secure auth, payments, and real-time features<br>🧪 Experiment with AI/ML workflows using Python, TensorFlow, mlflow, LangChain<br>🛠️ Mentor devs, contribute to open source, and solve real-world problems
 
 
----
-# 💫 About Me
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Wynemods) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Alexmods) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alexmods) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/manman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kingstonmuhoro@gmail.com) 
 
-👋 Hi, I'm **Alex** — aka [@Wynemods](https://github.com/Wynemods)  
-🛡️ *The Code Warden* — *Guardian of Logic. Sentinel of Structure. Slayer of Bugs.*
-
----
-
-## 💻 Software Engineer | Full-Stack Developer | Tech Creator | Systems Architect
-
-Welcome to my GitHub realm! I'm a passionate, world-class software engineer who blends clean code with creative firepower. I specialize in building full-stack web applications, scalable backend architectures, and immersive user experiences that *leave a mark*.
-
-Whether I'm summoning APIs from the void or banishing bugs with a single keystroke, I code with precision, purpose, and a touch of magic.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Wynemods&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Wynemods&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wynemods&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Wynemods&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 What I Do
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wynemods28@gmail.com) 
 
-- 🧠 Architect high-performance web & mobile apps  
-- ⚙️ Build RESTful APIs and microservices with **Node.js**, **Laravel**, **Python**, **Go**, **Rust**  
-- 🎨 Design responsive UIs using **React**, **Vue**, **Angular**, **Svelte**, **TailwindCSS**  
-- ☁️ Deploy scalable systems on **AWS**, **Docker**, **Firebase**, **Kubernetes**, **Vercel**  
-- 🔒 Integrate secure auth, payments, and real-time features  
-- 🧪 Experiment with AI/ML workflows using **Python**, **TensorFlow**, **mlflow**, **LangChain**  
-- 🛠️ Mentor devs, contribute to open source, and solve real-world problems
-
----
-
-### 🧰 Tech Stack
-
-```bash
-Languages:  JavaScript, TypeScript, PHP, Python, Go, Rust, Kotlin, Dart, C, C++, SQL, Bash
-Frameworks: React, Vue, Angular, Svelte, Laravel, Express, Django, FastAPI, NestJS, Flutter, .NET
-Databases:  PostgreSQL, MySQL, MongoDB, Supabase, Redis, MariaDB, Oracle, PocketBase, Firebase
-Tools:      Git, Docker, Kubernetes, Figma, Firebase, GCP, Azure, AWS, Adobe CC, Postman, Vercel, LangChain, mlflow
-```
-
----
-
-### 🌐 Socials
-
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Alexmods)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/wyne)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alexmods)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wynemods)  
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/wyne)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manman)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kingstonmuhoro@gmail.com)
-
----
-
-### 📈 GitHub Stats
-
-![Wynemods' GitHub Stats](https://github-readme-stats.vercel.app/api?username=wynemods&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=wynemods&theme=highcontrast&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wynemods&theme=highcontrast&hide_border=false&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=wynemods&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=wynemods&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=wynemods&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## 🌟 Fun Facts & Hidden Gems
-
-- 🧩 Debugging spaghetti codebases with coffee is my jazz 🎷  
-- 🎮 Gaming taught me version control before GitHub  
-- 🌍 Open source is the best kind of global teamwork  
-- 🎤 Pitched to startups on zero sleep — still closed the deal  
-- 📫 I reply to DMs faster than most APIs  
-- 🧠 I use Seelen UI to optimize my desktop workflow like a productivity spellbook  
-- 🧬 I’ve built systems that self-heal using observability and event-driven architecture  
-- 🧊 I once deployed a full-stack app using only serverless functions and edge caching  
-- 🧙‍♂️ I treat code like lore—every function has a story, every bug a villain  
-- 🧪 I experiment with AI agents that debug code autonomously  
-- 🧭 I believe the best devs aren’t just coders—they’re system thinkers, storytellers, and strategists
-
----
-
-## 📫 Let's Connect
-
-- 🌐 Portfolio: Coming Soon...  
-- 💼 [LinkedIn](https://linkedin.com/in/wynemods)  
-- ✉️ [Email](mailto:Kingstonmuhoro@gmail.com)
-
----
-
-## 💰 Support Me
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wyne)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alexmuhoro)  
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wyne)
-
----
-
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

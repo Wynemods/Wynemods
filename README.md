@@ -65,9 +65,15 @@ From summoning APIs out of the void 🌀 to banishing bugs with a single keystro
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=Wynemods&theme=merko&hide_border=true&show_icons=true&rank_icon=github&card_width=450&custom_title=Alex's+Performance+Report+(Grade:+B-))  
-![](https://streak-stats.demolab.com?user=Wynemods&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wynemods&theme=merko&hide_border=true&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wynemods&theme=merko&hide_border=true&show_icons=true&custom_title=Developer+Grade:+B-&card_width=450" alt="GitHub Stats"/>
+
+<img src="https://streak-stats.demolab.com?user=Wynemods&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynemods&theme=merko&hide_border=true&layout=compact" alt="Top Languages"/>
+
+</div>
 
 ---
 

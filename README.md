@@ -1,9 +1,12 @@
-<!-- 🌌 Dark Mode Professional GitHub Profile for @Wynemods -->
+<!-- 🌌 Elegant British Dark Mode GitHub Profile for @Wynemods -->
 <div align="center">
 
-# 👋 Greetings, Traveller of Code!
+<!-- Animated Scroll Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=220&section=header&text=Alex%20%7C%20@Wynemods&fontSize=45&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Systems%20Architect%20%7C%20Tech%20Creator&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Wynemods Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Alex+%7C+@Wynemods;Full-Stack+Software+Engineer;Systems+Architect+%7C+Tech+Creator;Guardian+of+Logic+%7C+Slayer+of+Bugs+🛡️" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Greetings%2C+Traveller+of+Code!;Guardian+of+Logic+%7C+Slayer+of+Bugs+🛡️;Engineering+Elegant+and+Enduring+Systems+💻" alt="Typing Animation"/>
 
 </div>
 
@@ -11,22 +14,22 @@
 
 ## 💫 About Me
 
-> **“Engineering isn’t merely the act of coding — it’s the art of creating enduring systems.”**
+> **“Engineering isn’t merely about coding — it’s the discipline of crafting systems that last.”**
 
 🧑‍💻 I’m **Alex (@Wynemods)** —  
 🛡️ *The Code Warden – Guardian of Logic. Sentinel of Structure. Slayer of Bugs.*
 
-🎯 A **Software Engineer**, **Full-Stack Developer**, and **Systems Architect** devoted to designing high-performance, aesthetically refined, and robust digital systems.  
-I code with precision ⚙️, purpose 🚀, and a hint of magic ✨.
+🎯 A **Software Engineer**, **Full-Stack Developer**, and **Systems Architect** who combines creativity with rigorous engineering principles to deliver durable, scalable, and aesthetic solutions.  
+I write code with precision ⚙️, discipline 📐, and a hint of flair ✨.
 
 ### 🧭 What I Do
-- 🧠 Architect high-performance **web** & **mobile** applications  
-- ⚙️ Build scalable **APIs** & **microservices** with *Node.js*, *Laravel*, *Python*, *Go*, *Rust*  
-- 🎨 Design sleek UIs with *React*, *Vue*, *Angular*, *Svelte*, *TailwindCSS*  
-- ☁️ Deploy to *AWS*, *Docker*, *Firebase*, *Kubernetes*, *Vercel*  
-- 🔒 Implement secure authentication, payments & real-time systems  
-- 🤖 Explore **AI/ML** workflows (*TensorFlow*, *LangChain*, *mlflow*)  
-- 🧰 Mentor fellow developers & contribute to open-source initiatives  
+- 🧠 Architect high-performance **web** and **mobile** applications  
+- ⚙️ Build resilient **APIs** & **microservices** with *Node.js*, *Laravel*, *Python*, *Go*, *Rust*  
+- 🎨 Design responsive UIs using *React*, *Vue*, *Angular*, *Svelte*, *TailwindCSS*  
+- ☁️ Deploy and orchestrate systems via *AWS*, *Docker*, *Firebase*, *Kubernetes*, *Vercel*  
+- 🔒 Integrate authentication, payments, and secure real-time logic  
+- 🤖 Explore **AI/ML** pipelines using *TensorFlow*, *LangChain*, *mlflow*  
+- 🧰 Mentor developers and contribute thoughtfully to open-source communities  
 
 ---
 
@@ -62,6 +65,11 @@ I code with precision ⚙️, purpose 🚀, and a hint of magic ✨.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynemods&theme=merko&hide_border=false&layout=compact"/>
 </p>
 
+<p align="center">
+  <!-- Custom Developer Grade -->
+  <img src="https://img.shields.io/badge/Developer%20Rating-B%E2%80%91-00FF99?style=for-the-badge&logo=github&logoColor=white" alt="Developer Grade Badge"/>
+</p>
+
 ---
 
 ## 🏆 Achievements & Trophies 🏅
@@ -72,9 +80,9 @@ I code with precision ⚙️, purpose 🚀, and a hint of magic ✨.
 
 ---
 
-## ✍️ Developer’s Daily Thought 💭
+## ✍️ Developer’s Thought 💭
 
-> *“Write code that your future self will read with gratitude, not confusion.”*  
+> *“Write your systems as if they’ll be maintained by the world’s grumpiest engineer — because someday, they might.”*  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -92,7 +100,7 @@ I code with precision ⚙️, purpose 🚀, and a hint of magic ✨.
 
 ## 💰 Support My Work ☕
 
-If my work inspires or assists you, consider fuelling my creativity ☕👇  
+If my work inspires you or adds value, consider fuelling my late-night code sessions ☕👇  
 <p align="center">
   <a href="https://paypal.me/wynemods28@gmail.com">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
@@ -108,7 +116,8 @@ If my work inspires or assists you, consider fuelling my creativity ☕👇
 ---
 
 <div align="center">
-  
-🌌 *Proudly engineered with precision, creativity, and a distinctly British sense of discipline.* 🇬🇧
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff99&height=120&section=footer" alt="footer wave"/>
+<br>
 
+🌌 *Proudly engineered with precision, discipline, and an unmistakably British sense of excellence.* 🇬🇧  
 </div>

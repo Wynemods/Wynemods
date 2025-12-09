@@ -4,15 +4,15 @@
 
 <div align="center">
 
-![Futuristic Grid Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Alex+%7C+The+Code+Warden;Full-Stack+Engineer;Systems+Architect;Builder+of+Modern+Digital+Experiences)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Alex+%7C+The+Code+Warden;Full-Stack+Engineer;Systems+Architect;Builder+of+Modern+Digital+Experiences)
 
 </div>
 
----
-
 <!-- SVG Divider -->
 <div align="center">
-  <img src="https://svgshare.com/i/xJH.svg" width="80%" />
+<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <path d="M0 10 C 20 0 50 20 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
+</svg>
 </div>
 
 # 💫 About Me
@@ -26,7 +26,9 @@ Whether it’s **crafting APIs**, **engineering real-time features**, **designin
 
 <!-- SVG Divider -->
 <div align="center">
-  <img src="https://svgshare.com/i/xJG.svg" width="80%" />
+<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <path d="M0 0 C 20 20 50 0 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
+</svg>
 </div>
 
 # 🎯 Fun Facts About Me
@@ -42,7 +44,9 @@ Whether it’s **crafting APIs**, **engineering real-time features**, **designin
 
 <!-- SVG Divider -->
 <div align="center">
-  <img src="https://svgshare.com/i/xJJ.svg" width="80%" />
+<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <path d="M0 10 C 30 0 70 20 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
+</svg>
 </div>
 
 ## 🌐 Socials
@@ -55,7 +59,9 @@ Whether it’s **crafting APIs**, **engineering real-time features**, **designin
 
 <!-- SVG Divider -->
 <div align="center">
-  <img src="https://svgshare.com/i/xJK.svg" width="80%" />
+<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <path d="M0 0 C 50 20 50 0 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
+</svg>
 </div>
 
 # 🧩 What I Do
@@ -72,20 +78,24 @@ Whether it’s **crafting APIs**, **engineering real-time features**, **designin
 
 <!-- SVG Divider -->
 <div align="center">
-  <img src="https://svgshare.com/i/xJL.svg" width="80%" />
+<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <path d="M0 10 C 50 0 50 20 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
+</svg>
 </div>
 
 # 💻 Tech Highlights
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-*(Keep your full original tech stack badges here for completeness)*
+*(Add remaining tech badges here as in your original stack)*
 
 ---
 
 <!-- SVG Divider -->
 <div align="center">
-  <img src="https://svgshare.com/i/xJM.svg" width="80%" />
+<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
+  <path d="M0 0 C 20 10 80 0 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
+</svg>
 </div>
 
 # 📊 GitHub Stats

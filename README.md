@@ -65,7 +65,7 @@ Whether it’s **crafting APIs**, **engineering real-time features**, **designin
 </div>
 
 # 🧩 What I Do
-- ✔ Build full-stack apps from **concept → production**  
+- ✔ Build full-stack apps from **concept → production one of Best example MOTO RIDES-technology-driven mobility solutions for African markets. Live platform: motorides.app,, check it out**  
 - ✔ Design **scalable backend architectures**  
 - ✔ Modern **UI/UX development** with clean component systems  
 - ✔ Cloud deployments, automation & DevOps  

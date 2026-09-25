@@ -1,128 +1,124 @@
-<!-- ============================= -->
-<!-- ✨ Alex | The Code Warden README ✨ -->
-<!-- ============================= -->
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Alex+%7C+The+Code+Warden;Full-Stack+Engineer;Systems+Architect;Builder+of+Modern+Digital+Experiences)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=Alex%20%7C%20The%20Code%20Warden&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20Systems%20Architect&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+systems+that+ship;Architecting+MOTO+RIDES+%E2%80%94+East+African+mobility;REST+%7C+GraphQL+%7C+WebSockets+%7C+Cloud;Clean+code.+Real+products.+Real+users." alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Product-motorides.app-00F7FF?style=for-the-badge&labelColor=0d1117)](https://motorides.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kingstonmuhoro@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_alexmods)
 
 </div>
 
-<!-- SVG Divider -->
+<br/>
+
+## 👋 About Me
+
+I'm **Alex**, a senior full-stack engineer and systems architect focused on turning ambitious ideas into **fast, reliable, production-grade software**. My work spans backend architecture, real-time systems, and interfaces that feel effortless to use.
+
+I currently lead engineering on **[MOTO RIDES](https://motorides.app)** — a technology-driven mobility platform built for East African markets, live and running in **Chuka, Embu, and Meru**. From mapping infrastructure to the rider experience, I own the product end-to-end.
+
+> *"Tap. Ride. Arrive."* — MOTO RIDES, by Zylos
+
+I care about systems that stay clean under pressure: code that's easy to reason about six months later, architecture that scales without rewrites, and products that solve real problems for real people.
+
+<br/>
+
 <div align="center">
-<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <path d="M0 10 C 20 0 50 20 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
 </div>
 
-# 💫 About Me
-I’m **Alex — widely known as The Code Warden** — a full-stack engineer and systems architect who blends engineering precision with creative problem-solving.  
-I specialize in building **fast**, **scalable**, and **modern digital experiences** that feel as good as they perform.
+## 🚀 Featured Work
 
-I love taking complex ideas and turning them into smooth, efficient, user-friendly systems.  
-Whether it’s **crafting APIs**, **engineering real-time features**, **designing intuitive UIs**, or **optimizing cloud deployments**, I focus on writing code that is **clean**, **reliable**, and **built to last**.
+<table>
+<tr>
+<td width="100%">
 
----
+### 🏍️ MOTO RIDES — Mobility Platform
+**Live at [motorides.app](https://motorides.app)**
 
-<!-- SVG Divider -->
+A technology-driven ride-hailing platform built for East African markets, currently operating across **Chuka, Embu, and Meru**. I designed and built the core mapping and location system (`MapView`), the real-time ride-matching flow, and the end-to-end product architecture — from backend services to the rider-facing app.
+
+`Real-time Mapping` `Location Services` `Mobile-First UX` `Scalable Backend`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Core Expertise
+
 <div align="center">
-<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <path d="M0 0 C 20 20 50 0 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
-</svg>
+
+| Domain | Focus |
+|---|---|
+| **Backend & APIs** | REST, GraphQL, WebSockets, microservices, ORMs |
+| **Real-Time Systems** | Live location tracking, matching engines, event-driven architecture |
+| **Frontend** | React, Vue, Angular — clean, component-driven UI |
+| **Cloud & DevOps** | Docker, CI/CD, automated deployments |
+| **Product Engineering** | Concept → architecture → production, owning the full lifecycle |
+
 </div>
 
-# 🎯 Fun Facts About Me
-- 🧠 Debug faster with music — late-night coding sessions are optimal  
-- 🚀 Can design an API structure mentally before writing a line of code  
-- 🛡️ Friends call me “The Code Warden” — I guard clean architecture like a religion  
-- ⚡ Built apps across **web**, **mobile**, **cloud**, and **real-time systems**  
-- 🔥 Optimize everything — even things that don’t need optimizing  
-- 🎮 Gaming and analyzing software architectures when not coding  
-- 🤖 Love AI & automation, but still craft elegant manual solutions
+<br/>
 
----
+## 💻 Tech Stack
 
-<!-- SVG Divider -->
 <div align="center">
-<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <path d="M0 10 C 30 0 70 20 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
-</svg>
+
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Maps%20%26%20Geo-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 </div>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alexmods)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/manman)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manman)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kingstonmuhoro@gmail.com)
+<br/>
 
----
-
-<!-- SVG Divider -->
 <div align="center">
-<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <path d="M0 0 C 50 20 50 0 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
 </div>
 
-# 🧩 What I Do
-- ✔ Build full-stack apps from **concept → production one of Best example MOTO RIDES-technology-driven mobility solutions for African markets. Live platform: motorides.app,, check it out**  
-- ✔ Design **scalable backend architectures**  
-- ✔ Modern **UI/UX development** with clean component systems  
-- ✔ Cloud deployments, automation & DevOps  
-- ✔ **API engineering** (REST, GraphQL, WebSockets)  
-- ✔ **Real-time features** + high-performance systems  
-- ✔ Databases, ORMs, microservices  
-- ✔ **Code quality**, testing, and maintainability  
+## 📊 GitHub Activity
 
----
-
-<!-- SVG Divider -->
 <div align="center">
-<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <path d="M0 10 C 50 0 50 20 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
-</svg>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wynemods&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynemods&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
 </div>
 
-# 💻 Tech Highlights
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-
-
----
-
-<!-- SVG Divider -->
 <div align="center">
-<svg width="100%" height="50" viewBox="0 0 100 10" preserveAspectRatio="none">
-  <path d="M0 0 C 20 10 80 0 100 10 L100 10 L0 10 Z" fill="#0d1117"/>
-</svg>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wynemods&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=wynemods&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wynemods&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wynemods&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wynemods&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="95%"/>
+</div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wynemods&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Trophy Case
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=wynemods&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wynemods&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer&width=100%"/>
 
-# 🛰️ Visitor Counter
-[![](https://visitcount.itsvg.in/api?id=wynemods&icon=0&color=0)](https://visitcount.itsvg.in)
+**Open to interesting problems and ambitious builds — reach out below.**
 
----
-
-# 💰 Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wynemods28)
-
----
-
-<!-- Proudly created with GPRM -->
+</div>

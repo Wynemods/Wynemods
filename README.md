@@ -1,42 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=240&section=header&text=Alex%20%E2%80%94%20The%20Code%20Warden&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Builder%20of%20Production%20Systems&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,25:0F2C4C,60:0E5C6E,100:00F7FF&height=280&section=header&text=ALEX%20%E2%80%94%20THE%20CODE%20WARDEN&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Software%20Engineer%20%E2%97%86%20Systems%20Architect%20%E2%97%86%20Production-Grade%20Builder&descAlignY=52&descSize=17&descColor=8FE9FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Designing+systems+that+survive+contact+with+reality;Architecting+MOTO+RIDES+%E2%80%94+live+geospatial+mobility+at+scale;REST+%C2%B7+GraphQL+%C2%B7+WebSockets+%C2%B7+Distributed+Systems;I+don't+just+ship+features.+I+ship+architecture." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A0E27&height=3&width=100%" width="100%"/>
 
 <br/>
 
-<!-- inline spinning orbit — self-contained SVG, no external dependency -->
-<svg width="120" height="120" viewBox="0 0 120 120">
-  <circle cx="60" cy="60" r="6" fill="#00F7FF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2600&pause=900&color=6EE7F9&center=true&vCenter=true&width=780&separator=%3B&lines=Designing+systems+that+survive+contact+with+reality%3BArchitecting+MOTO+RIDES+%E2%80%94+live+geospatial+mobility+at+scale%3BREST+%C2%B7+GraphQL+%C2%B7+WebSockets+%C2%B7+Distributed+Systems%3BI+don't+ship+features.+I+ship+architecture." alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- self-contained animated orbit mark — no external image dependency -->
+<svg width="92" height="92" viewBox="0 0 92 92">
+  <circle cx="46" cy="46" r="5" fill="#00F7FF"/>
+  <circle cx="46" cy="46" r="26" fill="none" stroke="#00F7FF" stroke-width="1" opacity="0.3"/>
+  <circle cx="46" cy="46" r="38" fill="none" stroke="#6EE7F9" stroke-width="1" opacity="0.15"/>
   <g>
-    <circle cx="60" cy="14" r="5" fill="#7CFFCB"/>
-    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 60 60" to="360 60 60" dur="4s" repeatCount="indefinite"/>
+    <circle cx="46" cy="8" r="4" fill="#6EE7F9"/>
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 46 46" to="360 46 46" dur="3.5s" repeatCount="indefinite"/>
   </g>
   <g>
-    <circle cx="60" cy="106" r="4" fill="#00A8E8"/>
-    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="360 60 60" to="0 60 60" dur="6s" repeatCount="indefinite"/>
+    <circle cx="46" cy="84" r="3" fill="#00A8E8"/>
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="360 46 46" to="0 46 46" dur="5s" repeatCount="indefinite"/>
   </g>
-  <circle cx="60" cy="60" r="34" fill="none" stroke="#00F7FF" stroke-width="1" opacity="0.35"/>
-  <circle cx="60" cy="60" r="48" fill="none" stroke="#00A8E8" stroke-width="1" opacity="0.2"/>
 </svg>
 
 <br/><br/>
 
-[![Live Product](https://img.shields.io/badge/🛰️_In_Production-motorides.app-00F7FF?style=for-the-badge&labelColor=0d1117)](https://motorides.app)
-[![Email](https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&labelColor=0d1117&color=D14836)](mailto:Kingstonmuhoro@gmail.com)
-[![X](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&labelColor=0d1117)](https://x.com/manman)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&labelColor=0d1117&color=E4405F)](https://instagram.com/_alexmods)
+<!-- status pulse — self-contained, animated -->
+<svg width="230" height="34" viewBox="0 0 230 34">
+  <rect x="0" y="0" width="230" height="34" rx="17" fill="#0d1117" stroke="#1f6feb" stroke-width="1"/>
+  <circle cx="22" cy="17" r="5" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="40" y="22" fill="#c9d1d9" font-family="Verdana, sans-serif" font-size="12" font-weight="bold">Open to ambitious builds</text>
+</svg>
+
+<br/><br/>
+
+[![Live Product](https://img.shields.io/badge/🛰️_IN_PRODUCTION-motorides.app-00F7FF?style=for-the-badge&labelColor=0A0E27)](https://motorides.app)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-D14836?style=for-the-badge&labelColor=0A0E27&color=D14836)](mailto:Kingstonmuhoro@gmail.com)
+[![X](https://img.shields.io/badge/𝕏_FOLLOW-000000?style=for-the-badge&labelColor=0A0E27)](https://x.com/manman)
+[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&labelColor=0A0E27&color=E4405F)](https://instagram.com/_alexmods)
 
 </div>
 
 <br/>
 
-## 🧭 Who I Am
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
+</div>
 
-I'm Alex — engineers who've worked with me tend to call me **The Code Warden**, and the name stuck for a reason: I treat architecture the way a warden treats a perimeter. Not precious, not decorative — *defended*. Clean boundaries between layers, contracts that don't leak, and systems that fail loudly in staging instead of silently in production.
+## 🧭&nbsp; Who I Am
 
-I'm a senior full-stack engineer and systems architect with a specialization in **real-time, geospatially-aware platforms** — the unglamorous, deeply technical work of making location, timing, and state agree with each other at scale, under unreliable networks, on unreliable hardware, in markets that don't forgive a slow app.
+> Engineers I've worked with tend to call me **The Code Warden** — and the name stuck for a reason. I treat architecture the way a warden treats a perimeter: not precious, not decorative — *defended*. Clean boundaries between layers, contracts that don't leak, systems that fail loudly in staging instead of silently in production.
+
+I'm a senior full-stack engineer and systems architect specializing in **real-time, geospatially-aware platforms** — the unglamorous, deeply technical work of making location, timing, and state agree with each other at scale, under unreliable networks, on unreliable hardware, in markets that don't forgive a slow app.
 
 I don't optimize for résumés. I optimize for systems that are still legible — and still standing — eighteen months after I wrote them.
 
@@ -46,7 +65,7 @@ I don't optimize for résumés. I optimize for systems that are still legible �
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
 </div>
 
-## 🛰️ Flagship Build — MOTO RIDES
+## 🛰️&nbsp; Flagship Build — MOTO RIDES
 
 <table>
 <tr><td width="100%">
@@ -62,7 +81,7 @@ I own this system end-to-end — not just the feature surface, but the architect
 - 📱 **Product-grade mobile UX** — an interface built for low-bandwidth, high-urgency use: someone standing on a roadside who needs a ride *now*, not a beautiful loading skeleton.
 - 🧱 **End-to-end ownership** — from data model to deployment pipeline, I'm accountable for the whole system, not a ticket queue.
 
-> **"Tap. Ride. Arrive."** — MOTO RIDES, by Zylos
+> *"Tap. Ride. Arrive."* — MOTO RIDES, by Zylos
 
 `Real-Time Systems` `Geospatial Engineering` `Mobile-First Architecture` `Distributed State` `Production at Scale`
 
@@ -71,14 +90,18 @@ I own this system end-to-end — not just the feature surface, but the architect
 
 <br/>
 
-## ⚙️ Engineering Philosophy
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
+</div>
+
+## ⚙️&nbsp; Engineering Philosophy
 
 I think about software the way a structural engineer thinks about a building — the parts nobody sees are the parts that determine whether it stands.
 
 - **Boundaries over cleverness.** A clean interface between two systems is worth more than an elegant hack inside one of them.
-- **Design for the failure case first.** The happy path is easy. I want to know what the system does when the network drops, the payload is malformed, or the load triples at 6pm on a Friday.
-- **Legibility is a feature.** Code that a teammate — or future-me — can read at 2am during an incident is worth more than code that's merely clever.
-- **Ship, then harden.** Production feedback beats theoretical completeness. I'd rather have a working system I iterate on than a perfect one still in design review.
+- **Design for the failure case first.** The happy path is easy. I want to know what the system does when the network drops, the payload is malformed, or load triples at 6pm on a Friday.
+- **Legibility is a feature.** Code a teammate — or future-me — can read at 2am during an incident is worth more than code that's merely clever.
+- **Ship, then harden.** Production feedback beats theoretical completeness. A working system I iterate on beats a perfect one still in design review.
 
 <br/>
 
@@ -86,7 +109,7 @@ I think about software the way a structural engineer thinks about a building —
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
 </div>
 
-## 🧬 Core Domains
+## 🧬&nbsp; Core Domains
 
 <div align="center">
 
@@ -103,7 +126,7 @@ I think about software the way a structural engineer thinks about a building —
 
 <br/>
 
-## 🧪 Tech Stack
+## 🧪&nbsp; Tech Stack
 
 <div align="center">
 
@@ -128,24 +151,24 @@ I think about software the way a structural engineer thinks about a building —
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
 </div>
 
-## 📊 Activity & Metrics
+## 📊&nbsp; Activity & Metrics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wynemods&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynemods&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wynemods&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=6EE7F9&icon_color=00F7FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynemods&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=6EE7F9&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wynemods&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wynemods&theme=radical&hide_border=true&background=0A0E27&ring=00F7FF&fire=00F7FF&currStreakLabel=6EE7F9" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wynemods&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wynemods&theme=react-dark&hide_border=true&bg_color=0A0E27&color=00F7FF&line=00F7FF&point=ffffff" width="95%"/>
 </div>
 
 <br/>
 
-## 🏆 Trophy Case
+## 🏆&nbsp; Trophy Case
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=wynemods&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
@@ -154,11 +177,13 @@ I think about software the way a structural engineer thinks about a building —
 <br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&section=header&width=100%" width="100%"/>
+</div>
 
-### 🔭 Currently
+### 🔭&nbsp; Currently
 
 Hardening MOTO RIDES' real-time matching layer for scale beyond three cities — and always open to conversations about systems worth building well.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer&width=100%"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:00F7FF&height=140&section=footer&width=100%"/>
 </div>
